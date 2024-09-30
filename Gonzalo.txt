@@ -1,3 +1,4 @@
 Me llamo Gonzalo y estudio git
 Y estudio GitHub desktop
 Git
+Trabajo desde casa
